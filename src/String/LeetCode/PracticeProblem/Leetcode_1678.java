@@ -1,4 +1,4 @@
-package String.PracticeProblem;
+package String.LeetCode.PracticeProblem;
 
 public class Leetcode_1678 {
     public static String interpret(String command) {

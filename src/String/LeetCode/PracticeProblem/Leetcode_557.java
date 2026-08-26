@@ -1,4 +1,4 @@
-package String.PracticeProblem;
+package String.LeetCode.PracticeProblem;
 
 public class Leetcode_557 {
     public static String reverseWords(String s) {

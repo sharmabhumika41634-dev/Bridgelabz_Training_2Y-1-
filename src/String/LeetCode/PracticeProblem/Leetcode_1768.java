@@ -1,4 +1,4 @@
-package String.PracticeProblem;
+package String.LeetCode.PracticeProblem;
 
 public class Leetcode_1768 {
     public static String mergeAlternately(String word1, String word2) {

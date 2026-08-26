@@ -1,4 +1,4 @@
-package String.PracticeProblem;
+package String.LeetCode.PracticeProblem;
 
 public class Leetcode_771 {
     public static int numJewelsInStones(String jewels, String stones) {

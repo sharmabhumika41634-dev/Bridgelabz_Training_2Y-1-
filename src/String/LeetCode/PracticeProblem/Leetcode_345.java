@@ -1,4 +1,4 @@
-package String.PracticeProblem;
+package String.LeetCode.PracticeProblem;
 
 public class Leetcode_345 {
     public static String reverseVowels(String s) {
