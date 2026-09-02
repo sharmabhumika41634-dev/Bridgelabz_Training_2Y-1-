@@ -5,7 +5,7 @@ PSEUDOCODE
 PC-1: PRIME NUMBER CHECKER
 ========================================
 
-START
+Start
 
 Input N
 
@@ -42,7 +42,7 @@ Output: Not Prime
 PC-2: NUMBER DIGIT REVERSAL
 ========================================
 
-START
+Start
 
 Input N
 
@@ -58,7 +58,7 @@ While N > 0
 
 End While
 
-Print reversed
+Print  reversed
 
 STOP
 
