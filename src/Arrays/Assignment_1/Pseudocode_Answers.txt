@@ -1,0 +1,73 @@
+DSA PRACTICE SHEET
+PSEUDOCODE
+
+========================================
+PC-1: PRIME NUMBER CHECKER
+========================================
+
+Start
+
+Input N
+
+Set i = 2
+
+While i * i <= N
+
+    If N % i == 0
+
+        Print "Not Prime"
+
+        STOP
+
+    End If
+
+    i = i + 1
+
+End While
+
+Print "Prime"
+
+STOP
+
+
+Example 1:
+Input: N = 61
+Output: Prime
+
+Example 2:
+Input: N = 8
+Output: Not Prime
+
+========================================
+PC-2: NUMBER DIGIT REVERSAL
+========================================
+
+Start
+
+Input N
+
+Set reversed = 0
+
+While N > 0
+
+    digit = N % 10
+
+    reversed = reversed * 10 + digit
+
+    N = N / 10
+
+End While
+
+Print  reversed
+
+STOP
+
+
+Example 1:
+Input: N = 1234
+Output: 4321
+
+Example 2:
+Input: N = 806
+Output: 608
+
