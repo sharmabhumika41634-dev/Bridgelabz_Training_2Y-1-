@@ -8,6 +8,8 @@ public class Main {
         st.push(20);
         st.push(20);
         st.push(20);
+        st.push(60);
         st.display();
+
     }
 }

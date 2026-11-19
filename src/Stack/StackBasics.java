@@ -10,6 +10,7 @@ public class StackBasics {
         st.push(30);
         st.push(40);
         st.push(50);
+        st.push(60);
         System.out.println(st); //print stack
         System.out.println(st.peek()); //topmost element(50)//
         st.pop(); //remove topmost element[10,20,30,40]
